@@ -1,3 +1,2 @@
-# SemanaTec\nEditando mi repositorio de github!
-\nEditando mi repositorio de github!
- :)
+# SemanaTec
+Editando mi repositorio de github! :)
